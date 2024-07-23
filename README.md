@@ -113,7 +113,7 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+  <a href="https://www.linkedin.com/in/nour-temelist/" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"" alt="linkedin" height="50" width="50" /> </a>
     <a href="mailto:nourtemelist@gmail.com" target="blank">
     <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="50" width="65"></a>
