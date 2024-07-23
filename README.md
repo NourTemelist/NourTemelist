@@ -115,13 +115,15 @@
 ### <b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="90">Connect with Me </b>
 
 <!--icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/nour-temelist/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"" alt="linkedin" height="50" width="50" /> </a>
-    <a href="mailto:nourtemelist@gmail.com" target="blank">
-    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="50" width="65"></a>
- 
-</p>
+<div align="center" display="flex" justify-content="center" gap="40px">
+  <a href="https://www.linkedin.com/in/nour-temelist/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="mailto:nourtemelist@gmail.com" target="_blank">
+    <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="50" width="65">
+  </a>
+</div>
+
 
 
 <!--Footer-->
