@@ -1,4 +1,7 @@
-<img alt src="https://github.com/user-attachments/assets/c23dc9b8-2b46-4fc7-a5a5-e3969e321975"/>
+<div align="center"><img align="center" alt src="https://github.com/user-attachments/assets/c23dc9b8-2b46-4fc7-a5a5-e3969e321975" height="400px" width="1000px"/></div>
+
+
+
 <div>
 <h2 align="left"><b></b>Hey there! I'm Nour Temelist </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <img alt="nour coding" src='https://github.com/user-attachments/assets/5942f800-fdd1-4a97-b915-cf8cce0832b3' align="right" width="300px"/>
