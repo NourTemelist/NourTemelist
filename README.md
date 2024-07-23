@@ -33,6 +33,8 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)&nbsp;
 ![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=langgraph)&nbsp;
 ![Weaviate](https://img.shields.io/badge/-Weaviate-black?style=flat-square&logo=weaviate)&nbsp;
+![Peft](https://img.shields.io/badge/-Peft-black?style=flat-square&logo=peft)&nbsp;
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)&nbsp;
 
 </p>
 
