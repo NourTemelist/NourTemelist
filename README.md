@@ -4,7 +4,6 @@
 
 <div>
 <h2 align="left"><b></b>Hey there! I'm Nour Temelist </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<img alt="nour coding" src='https://github.com/user-attachments/assets/5942f800-fdd1-4a97-b915-cf8cce0832b3' align="right" width="300px"/>
 <!--Start Intro--> 
   
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;About Me
@@ -15,7 +14,9 @@
 ❤ &nbsp;I enjoy contributing to open source projects and collaborating with the community.\
 📚 &nbsp;I am continuously learning and keeping up-to-date with the latest trends in AI and machine learning.\
 💻 &nbsp;Visit my [Portfolio](https://nourtemelist.github.io/Portfolio/) for more details about my work and projects.
+
 </div>
+<div align="center"><img align="center" alt="nour coding" src='https://github.com/user-attachments/assets/5942f800-fdd1-4a97-b915-cf8cce0832b3' align="right" width="400px"/></div>
 <!--End Intro-->
 
 ---
