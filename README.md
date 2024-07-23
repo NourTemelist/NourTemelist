@@ -1,10 +1,10 @@
 <img alt src="https://github.com/user-attachments/assets/c23dc9b8-2b46-4fc7-a5a5-e3969e321975"/>
 <div>
-<img alt="Wave" src="./assets/wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Nour Temelist</h2>
+<h2 align="left"><b></b>Hey there! I'm Nour Temelist </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <img alt="nour coding" src='https://github.com/user-attachments/assets/5942f800-fdd1-4a97-b915-cf8cce0832b3' align="right" width="300px"/>
 <!--Start Intro--> 
   
-### 👨🏻‍💻 &nbsp;About Me
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> &nbsp;About Me
 
 👨‍💻 &nbsp;I am a passionate data scientist currently focused on generative AI, specifically RAGs and LLMs.\
 💡 &nbsp;I love exploring new technologies and developing innovative solutions for complex problems.\
@@ -19,9 +19,10 @@
 <br />
 
 <!--Languages and Tools Section-->  
-### 🛠 &nbsp;Tech Stack
+### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>&nbsp; Tech Stack
+
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=python,anaconda,c,css,git,js,docker,elasticsearch,selenium,sklearn,django,flask,tensorflow,react,html,nodejs,mongo&perline=10" />
+<img width="500px" src="https://skillicons.dev/icons?i=python,anaconda,c,css,git,js,docker,elasticsearch,selenium,sklearn,django,flask,tensorflow,react,html,nodejs&perline=8" />
 
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)&nbsp;
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-black?style=flat-square&logo=llamaindex)&nbsp;
@@ -36,7 +37,12 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Github stats 📊</h2>
+  <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"> 
+    &nbsp;Github stats&nbsp;
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;">
+  </h2>
+
 
 <table width="100%">
   <tr>
@@ -96,19 +102,30 @@
 - Created a dynamic and responsive website to visualize dam state and allow administrators to update the features.
 - Gathered data from the Ministry of Agriculture in Tunisia via web scraping.
 
-### 🤝🏻 &nbsp;Connect with Me
+<br />
 
+---
+
+
+### <b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="90">Connect with Me </b>
+
+<!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/nour-temelist/"><img src="https://img.shields.io/badge/-Nour%20Temelist-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://nourtemelist.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:nour.temelist@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"" alt="linkedin" height="50" width="50" /> </a>
+    <a href="mailto:nourtemelist@gmail.com" target="blank">
+    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="50" width="65"></a>
+ 
 </p>
 
-### 🐍 &nbsp;That's How Commits Move...
 
-<div align="center">
-  <a href="https://github.com/NourTemelist">
-    <img src="https://github.com/NourTemelist/NourTemelist/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-  </a>
-</div>
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D9CDB,50:F2994A,100:F2C94C&height=70&section=footer&width="100%"/>
+</p>
+
+
+
+
+
 
