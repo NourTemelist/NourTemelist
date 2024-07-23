@@ -16,7 +16,7 @@
 <!--End Intro-->
 
 ---
-<br />
+
 
 <!--Languages and Tools Section-->  
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>&nbsp; Tech Stack
@@ -34,7 +34,7 @@
 </p>
 
 ---
-<br />
+
 
 <!--Github stats Table--> 
   <h2 align="center" style="display: flex; align-items: center; justify-content: center;">
@@ -79,28 +79,27 @@
 
 ---
 <!--Projects--> 
-<h2 align="center">🚀 Projects 🚀</h2>
+<h2 align="center">✨ Projects Highlights ✨</h2>
 
 
-#### MyGavel
+#### <h3 align="left">🚀 MyGavel</h3>
 **Technologies Used:** LangChain, LlamaIndex, langGraph, Weaviate, Selenium, Flask
 - Contributed to the development of an agentic French legal assistant to create an enhanced generation system tailored for legal tasks.
 - Enabled the assistant to understand and process complex legal texts, provide relevant case law, and support decision-making processes.
 
-#### Knowledge Graph-Based RAG System
+</br>
+
+#### <h3 align="left">🚀 Knowledge Graph-Based RAG System</h3>
 **Technologies Used:** LangChain, LlamaIndex, neo4j, Django
 - **Knowledge Graph Database Design:** Conceived and implemented a well-defined knowledge graph database using different LLMs, enabling efficient data retrieval.
 - **Query Implementation:** Developed various query methods to retrieve information from the knowledge graph database, ensuring precise and relevant data extraction.
+  
+</br>
 
-#### MATCHY MATCHY
+#### <h3 align="left">🚀 Matchy Matchy</h3>
 **Technologies Used:** Rasa, Spacy, Yolov7, U-Net, Roboflow, Selenium
 - Used computer vision techniques to recognize clothing items in images and recommend similar items using similarity algorithms.
 - Developed a recommendation system utilizing natural language processing (NLP) techniques to analyze user-provided text descriptions.
-
-#### AGRINET
-**Technologies Used:** React Js, Node Js, Python, Pandas
-- Created a dynamic and responsive website to visualize dam state and allow administrators to update the features.
-- Gathered data from the Ministry of Agriculture in Tunisia via web scraping.
 
 <br />
 
